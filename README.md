@@ -68,3 +68,9 @@ Explore the charts and data to gain insights into customer feedback.
 
  This project is open source and available for use.
 
+ # Ediga Sreelekha
+ 
+ # contact:
+  GMAIL: srilekhagowd@gmail.com
+ 
+
