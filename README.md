@@ -8,7 +8,6 @@ This project analyzes customer review data for the Stonemill Matcha Restaurant, 
 Table of Contents:
 
 - Project Overview
-- Data Source
 - Tools Used
 - Dashboard Overview
 - Key Findings (Based on Dashboard)
@@ -19,10 +18,6 @@ Table of Contents:
 # Project Overview
 
 The Stonemill Matcha Restaurant Customer Review Dashboard Analysis project aims to visually represent customer feedback and provide actionable insights to the restaurant management. The dashboard highlights popular menu items, overall ratings, and sentiment trends, enabling data-driven decision-making.
-
-# Data Source
-
-The data for this project was collected from []. 
 
 
  # Tools Used
@@ -55,7 +50,7 @@ The Excel dashboard provides a visual representation of the key findings. It inc
 Clone the repository to your local machine:
 Bash
 
-git clone [repository URL]
+git clone  [Click here ](https://github.com/edigasreelekha/Stonemill-Macha-Resturant/tree/main)
 
 Open the Stonemill_Matcha_Restaurant_Analysis.xlsx file using Microsoft Excel.
 Navigate to the dashboard sheet to view the analysis.
